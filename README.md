@@ -3,7 +3,8 @@
 ShoppyGlobe is a modern, fully responsive e-commerce web application built using **React (Vite)**, **Redux Toolkit**, and **React Router DOM v6/v7**. The application fetches real-time product datasets from the DummyJSON API and implements efficient client-side filtering, state architecture, and optimization flows.
 
 ## 🔗 Project Links
-*   **GitHub Repository**: [https://github.com/kaustav0703/ShoppyGlobe](https://github.com/kaustav0703/ShoppyGlobe) *(Replace with your actual repo link)*
+*   **GitHub Repository**: [https://github.com/kaustav0703/ShoppyGlobe](https://github.com/kaustav0703/ShoppyGlobe)
+*   **Live link**: [https://github.com/kaustav0703/ShoppyGlobe](https://github.com/kaustav0703/ShoppyGlobe)
 
 ---
 
