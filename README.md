@@ -4,7 +4,7 @@ ShoppyGlobe is a modern, fully responsive e-commerce web application built using
 
 ## 🔗 Project Links
 *   **GitHub Repository**: [https://github.com/kaustav0703/ShoppyGlobe](https://github.com/kaustav0703/ShoppyGlobe)
-*   **Live link**: [https://github.com/kaustav0703/ShoppyGlobe](https://github.com/kaustav0703/ShoppyGlobe)
+*   **Live link**: [https://incredible-fenglisu-cfb4be.netlify.app/](https://incredible-fenglisu-cfb4be.netlify.app/)
 
 ---
 
