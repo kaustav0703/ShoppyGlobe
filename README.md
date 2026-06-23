@@ -61,7 +61,7 @@ Follow these quick manual steps to launch the local build development server wor
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com.git
+git clone [https://github.com.git](https://github.com/kaustav0703/ShoppyGlobe)
 cd ShoppyGlobe
 ```
 
